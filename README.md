@@ -10,3 +10,9 @@ claude --plugin-dir <chemin vers ce dossier>
 ```
 
 Le modèle et les consignes de reformulation se règlent dans `hooks/register.tsx`.
+
+## Installation
+
+```
+/plugin install improve-prompt --marketplace chaillme/Prevert
+```

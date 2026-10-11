@@ -1,0 +1,6 @@
+{
+  "name": "prevert",
+  "owner": { "name": "chaillme" },
+  "plugins": [{ "name": "improve-prompt", "source": "./" }]
+}
+
