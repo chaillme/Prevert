@@ -1,0 +1,1 @@
+{ "name": "improve-prompt", "version": "0.1.0", "description": "Bouton « Améliorer le prompt » au-dessus de la zone de saisie", "types": "./types/index.d.ts" }
